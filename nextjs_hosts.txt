@@ -1,0 +1,11 @@
+https://benefits.netflix.com|/_next/,__NEXT_DATA__,_next/static,buildId|N5wgEkgQpyNiZkd5Nva33|31
+https://candidate.netflix.com|/_next/,__NEXT_DATA__,_next/static,buildId|N5wgEkgQpyNiZkd5Nva33|31
+https://embed.beta.netflix.com|buildId|N/A|0
+https://jobs.netflix.com|/_next/,_next/static|N/A|18
+https://media.netflix.com|/_next/,__NEXT_DATA__,_next/static,buildId|GTPIARqJd40K4__oNuFgm|13
+http://movies3.netflix.com|buildId|N/A|0
+https://movies.netflix.com|buildId|N/A|0
+https://pr.netflix.com|/_next/,__NEXT_DATA__,_next/static,buildId|GTPIARqJd40K4__oNuFgm|13
+https://research.netflix.com|/_next/,__NEXT_DATA__,_next/static,buildId|7927b847d9436d85908f311566e13402df8606c0|25
+https://www.jobs.netflix.com|/_next/,_next/static|N/A|17
+https://www3.stage.netflix.com|buildId|N/A|0
