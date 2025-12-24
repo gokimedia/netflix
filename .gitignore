@@ -1,0 +1,6 @@
+# Ignore nul files (Windows artifacts)
+nul
+
+# Ignore temporary files
+*.tmp
+*.temp

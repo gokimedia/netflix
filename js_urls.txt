@@ -1,0 +1,17 @@
+/_next/static/chunks/1255-2515ec02460e7abe.js
+/_next/static/chunks/2591-296f2e9fcf7c61ae.js
+/_next/static/chunks/2619-b8db57ac19da49ac.js
+/_next/static/chunks/3340-38876a2acab4e970.js
+/_next/static/chunks/3984-b9745829e912cc99.js
+/_next/static/chunks/4bd1b696-182b6b13bdad92e3.js
+/_next/static/chunks/5395-ef1329ddff58a955.js
+/_next/static/chunks/5923-67b5ca22e4c7621b.js
+/_next/static/chunks/8663-f99d094955d8a02c.js
+/_next/static/chunks/app/error-a88f66aee46c5fb4.js
+/_next/static/chunks/app/layout-1e12dfbc464a357d.js
+/_next/static/chunks/app/not-found-211c9fb798ec7369.js
+/_next/static/chunks/app/page-7465f18b638072df.js
+/_next/static/chunks/bd904a5c-1f1de11d1fc5be57.js
+/_next/static/chunks/main-app-e3f34a824956f8af.js
+/_next/static/chunks/polyfills-42372ed130431b0a.js
+/_next/static/chunks/webpack-709c479c11f21dd0.js
